@@ -1,5 +1,20 @@
 # learning_vue3
 
+## environment
+```
+node v22.21.1
+```
+
+## Vue CLI
+```
+@vue/cli 5.0.8
+```
+
+## Project creation
+```
+vue create learning_vue3
+```
+
 ## Project setup
 ```
 npm install
